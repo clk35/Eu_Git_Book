@@ -1,5 +1,7 @@
 
 
-this is the first book
+this is the first book.
 
-Java is cool
+Java is cool.
+
+few changes made
